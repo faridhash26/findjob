@@ -1,0 +1,4 @@
+{
+    "mongoUrl":"mongodb://localhost/findjob",
+    "jwtSecret": "sl_myjwtSecret"
+}
